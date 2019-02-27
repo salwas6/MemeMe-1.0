@@ -17,6 +17,7 @@
 		B05228B321B048EE00310E31 /* MemeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B05228B221B048EE00310E31 /* MemeTableViewController.swift */; };
 		B05228B521B0493500310E31 /* MemeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B05228B421B0493500310E31 /* MemeTableViewCell.swift */; };
 		B05228B721B0497900310E31 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B05228B621B0497900310E31 /* CollectionViewCell.swift */; };
+		B0530610222663ED00DFB17C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = B053060F222663ED00DFB17C /* README.md */; };
 		B06FB2C821BB08AD00E09B4B /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B06FB2C721BB08AD00E09B4B /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -33,6 +34,7 @@
 		B05228B221B048EE00310E31 /* MemeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemeTableViewController.swift; sourceTree = "<group>"; };
 		B05228B421B0493500310E31 /* MemeTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemeTableViewCell.swift; sourceTree = "<group>"; };
 		B05228B621B0497900310E31 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
+		B053060F222663ED00DFB17C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		B06FB2C721BB08AD00E09B4B /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -50,6 +52,7 @@
 		B042F0BE219CC2A000197B15 = {
 			isa = PBXGroup;
 			children = (
+				B053060F222663ED00DFB17C /* README.md */,
 				B042F0C9219CC2A000197B15 /* MemeMe-1.0 */,
 				B042F0C8219CC2A000197B15 /* Products */,
 			);
@@ -158,6 +161,7 @@
 			files = (
 				B042F0D5219CC2A200197B15 /* LaunchScreen.storyboard in Resources */,
 				B042F0D2219CC2A200197B15 /* Assets.xcassets in Resources */,
+				B0530610222663ED00DFB17C /* README.md in Resources */,
 				B042F0D0219CC2A000197B15 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
